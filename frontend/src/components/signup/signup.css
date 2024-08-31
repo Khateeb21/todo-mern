@@ -1,0 +1,92 @@
+.signup{
+
+width: 100%;
+height: 86vh;
+}
+.column{
+
+height: 100vh;
+   
+}
+
+.sign-in-heading{
+
+
+
+    font-size: 100px;
+
+    color: rgb(240, 0,0,0.7);
+
+
+}
+
+.col-left{
+
+    border-left: 1px solid  black;
+
+
+}
+
+.btns{
+
+    background-color: rgb(240, 0,0,0.7);;
+    color: white;
+    border: none;
+    outline: none;
+}
+input{
+
+    outline: none;
+}
+
+@media (max-width: 480px) {
+   
+.column{
+
+
+margin-bottom: 10px;
+height: 30vh;
+
+}
+
+.sign-in-heading{
+
+
+
+    font-size: 50px;
+
+    color: rgb(240, 0,0,0.7);
+
+
+}
+
+.signup{
+
+width: 100%;
+height: 99vh;
+}
+.signup-res{
+
+    position:absolute ;
+  bottom: 70%;
+  border: none;
+ height: 200px;
+ 
+}
+.column{
+
+margin-top: 20px;
+
+
+}
+.row{
+
+    position: relative;
+    
+}
+
+.col-res{
+
+    height: 85vh;
+}
+}
